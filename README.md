@@ -2,15 +2,6 @@
 
 I'm a dedicated developer focused on building custom solutions, primarily through APIs, Discord bots, authentication systems, and spoofers. Each project starts from the ground up—planning, designing, and implementing code to solve real-world problems. Skilled in C++, Python, JavaScript, and adaptable to other languages.
 
-<p align="left">
-   <a href="https://www.youtube.com/c/JJReselling?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   <a href="https://github.com/JJReselling?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/christhegofficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/christhegofficial?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/christhegofficial?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
 ---
 
 ### 🧰 Languages and Tools
