@@ -1,10 +1,4 @@
-Here’s an optimized version for your profile:
-
----
-
 # 🏄‍♂️ Chris
-
-**`Digital Craftsman (Developer/Content Creator)`**
 
 I'm a dedicated developer focused on building custom solutions, primarily through APIs, Discord bots, authentication systems, and spoofers. Each project starts from the ground up—planning, designing, and implementing code to solve real-world problems. Skilled in C++, Python, JavaScript, and adaptable to other languages.
 
@@ -37,6 +31,3 @@ I'm a dedicated developer focused on building custom solutions, primarily throug
 ### 📊 Stats
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=christhegofficial&show_icons=true&theme=gruvbox)
-
---- 
-
