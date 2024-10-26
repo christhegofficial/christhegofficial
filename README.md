@@ -1,4 +1,4 @@
-# 🏄‍♂️ Chris
+# Chris
 
 I'm a dedicated developer focused on building custom solutions, primarily through APIs, Discord bots, authentication systems, and spoofers. Each project starts from the ground up—planning, designing, and implementing code to solve real-world problems. Skilled in C++, Python, JavaScript, and adaptable to other languages.
 
